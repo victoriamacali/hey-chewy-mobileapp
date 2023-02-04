@@ -4,6 +4,7 @@ This repo contains the source code for a mobile app called Hey Chewy. This proje
 during a five day hackathon hosted by Chewy Inc. and is cross compatible wth both iOS and Android 
 app development. 
 
+<img width="209" alt="heychewy-homepage" src="https://user-images.githubusercontent.com/72415862/216754960-0e51b63f-58d8-42f9-9bac-f4c191a982df.png">
 
 The main components of our app include: 
 creating pet profile(s) 
