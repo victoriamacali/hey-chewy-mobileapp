@@ -1,0 +1,18 @@
+Hey Chewy Mobile App
+
+This repo contains the source code for a mobile app called Hey Chewy. This project was completed 
+during a five day hackathon hosted by Chewy Inc. and is cross compatible wth both iOS and Android 
+app development. 
+
+
+The main components of our app include: 
+creating pet profile(s) 
+1. Local Upload of PDFs or Scanned Documents 
+2. Keeping Track of Pet(s) medical records
+3. Storing Major Reminders (ex. 6 month check up)
+4. Daily To-Do List
+5. Additional Note keeping page
+
+We were able to create this purr-fect app with the React Native Framework, 
+with plans to connect it to  a MySQL  database.
+
